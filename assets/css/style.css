@@ -269,7 +269,7 @@ header
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #1e1e1e !important;
+  color: #2081AF !important;
 }
 
 .background-header .main-nav .nav li:hover a {
@@ -418,7 +418,7 @@ header
   opacity: 1;
   display: block;
   background: #f7f7f7;
-  color: #2a2a2a !important;
+  color: #2081AF !important;
   padding-left: 20px;
   height: 40px;
   line-height: 40px;
@@ -660,7 +660,7 @@ header
     padding: 0px !important;
     border: none !important;
     background: #f7f7f7 !important;
-    color: #191a20 !important;
+    color: #2081AF !important;
   }
 
   .header-area .main-nav .nav li a:hover {
@@ -695,7 +695,7 @@ header
   }
 
   .header-area .main-nav .nav li.submenu:after {
-    color: #3B566E;
+    color: #2081AF;
     right: 25px;
     font-size: 14px;
     top: 15px;
@@ -724,6 +724,10 @@ banner
   border-bottom: 3px dotted #eee;
   padding-top: 160px;
   padding-bottom: 30px;
+}
+
+.main-banner .left-content .thumb a img {
+  width: 40px;
 }
 
 .main-banner .left-content .thumb img {
@@ -911,8 +915,9 @@ Men
   text-align: center;
   line-height: 50px;
   display: inline-block;
-  color: #2a2a2a;
-  background-color: #fff;
+  color: #fff;
+  background-color: #119708;
+  border-radius: 50%;
 }
 
 
@@ -1072,8 +1077,9 @@ Women
   text-align: center;
   line-height: 50px;
   display: inline-block;
-  color: #2a2a2a;
-  background-color: #fff;
+  color: #fff;
+  background-color: #119708;
+  border-radius: 50%;
 }
 
 
@@ -1232,8 +1238,9 @@ Kids
   text-align: center;
   line-height: 50px;
   display: inline-block;
-  color: #2a2a2a;
-  background-color: #fff;
+  color: #fff;
+  background-color: #119708;
+  border-radius: 50%;
 }
 
 
@@ -1750,8 +1757,9 @@ Products Page
   text-align: center;
   line-height: 50px;
   display: inline-block;
-  color: #2a2a2a;
-  background-color: #fff;
+  color: #fff;
+  background-color: #119708;
+  border-radius: 50%;
 }
 
 #products .pagination {
