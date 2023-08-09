@@ -12,7 +12,7 @@
             <div class="col-lg-6">
                 <div class="section-heading">
                     <h2>Tem dúvidas? Nos envie um email!</h2>
-                    <span>Detalhes é o que torna a Online Store diferente de nossos concorrentes..</span>
+                    <span>Detalhes é o que torna a Online Store diferente de nossos concorrentes.</span>
                 </div>
                 <form id="contact" action="" method="post">
                     <div class="row">
