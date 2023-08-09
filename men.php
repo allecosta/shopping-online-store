@@ -1,4 +1,9 @@
-<?php require_once "inc/header.php"; ?>
+<?php 
+
+require_once "inc/head.php"; 
+require_once "inc/header.php"; 
+
+?>
 
 <!-- Section Main Banner -->
 <section class="page-heading" id="top">
@@ -35,7 +40,7 @@
                             <ul>
                                 <!-- <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
                                 <li><a href="single-product.html"><i class="fa fa-star"></i></a></li> -->
-                                <li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                         <img src="assets/images/men-01.jpg" alt="">
@@ -60,7 +65,7 @@
                             <ul>
                                 <!-- <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
                                 <li><a href="single-product.html"><i class="fa fa-star"></i></a></li> -->
-                                <li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                         <img src="assets/images/men-02.jpg" alt="">
@@ -85,7 +90,7 @@
                             <ul>
                                 <!-- <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
                                 <li><a href="single-product.html"><i class="fa fa-star"></i></a></li> -->
-                                <li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                         <img src="assets/images/men-03.jpg" alt="">
@@ -110,7 +115,7 @@
                             <ul>
                                 <!-- <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
                                 <li><a href="single-product.html"><i class="fa fa-star"></i></a></li> -->
-                                <li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                         <img src="assets/images/men-03.jpg" alt="">
@@ -135,7 +140,7 @@
                             <ul>
                                 <!-- <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
                                 <li><a href="single-product.html"><i class="fa fa-star"></i></a></li> -->
-                                <li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                         <img src="assets/images/men-01.jpg" alt="">
@@ -160,7 +165,7 @@
                             <ul>
                                 <!-- <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
                                 <li><a href="single-product.html"><i class="fa fa-star"></i></a></li> -->
-                                <li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                         <img src="assets/images/men-02.jpg" alt="">
@@ -185,7 +190,7 @@
                             <ul>
                                 <!-- <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
                                 <li><a href="single-product.html"><i class="fa fa-star"></i></a></li> -->
-                                <li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                         <img src="assets/images/men-03.jpg" alt="">
@@ -210,7 +215,7 @@
                             <ul>
                                 <!-- <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
                                 <li><a href="single-product.html"><i class="fa fa-star"></i></a></li> -->
-                                <li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                         <img src="assets/images/men-01.jpg" alt="">
@@ -235,7 +240,7 @@
                             <ul>
                                 <!-- <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
                                 <li><a href="single-product.html"><i class="fa fa-star"></i></a></li> -->
-                                <li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                         <img src="assets/images/men-02.jpg" alt="">
@@ -253,7 +258,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-12">
+            <!-- <div class="col-lg-12">
                 <div class="pagination">
                     <ul>
                         <li><a href="#">1</a></li>
@@ -263,7 +268,7 @@
                         <li><a href="#">></a></li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>

@@ -1,3 +1,4 @@
+    <!-- Footer Area Start -->
     <footer>
         <div class="container">
             <div class="row">
@@ -25,7 +26,7 @@
                     <h4>Links Úteis</h4>
                     <ul>
                         <li><a href="#top">Home</a></li>
-                        <li><a href="#">Quem somos</a></li>
+                        <li><a href="#">Empresa</a></li>
                         <!-- <li><a href="#">Help</a></li>
                         <li><a href="#">Contact Us</a></li> -->
                     </ul>
@@ -61,7 +62,6 @@
             </div>
         </div>
     </footer>
-
 
     <!-- jQuery -->
     <script src="assets/js/jquery-2.1.0.min.js"></script>
@@ -100,6 +100,5 @@
             });
         });
     </script>
-
 </body>
 </html>

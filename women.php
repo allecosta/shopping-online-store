@@ -1,4 +1,9 @@
-<?php require_once "inc/header.php"; ?>
+<?php 
+
+require_once "inc/head.php"; 
+require_once "inc/header.php"; 
+
+?>
 
 <!-- Section Main Banner -->
 <section class="page-heading" id="top">
@@ -253,7 +258,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-12">
+            <!-- <div class="col-lg-12">
                 <div class="pagination">
                     <ul>
                         <li><a href="#">1</a></li>
@@ -263,7 +268,7 @@
                         <li><a href="#">></a></li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
