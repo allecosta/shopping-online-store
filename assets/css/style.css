@@ -1438,6 +1438,13 @@ footer .logo {
 footer ul li {
   display: block;
   margin-bottom: 10px;
+  font-size: 14px;
+  color: #fff;
+  transition: all .3s;
+}
+
+footer ul li:hover {
+  color: #aaa;
 }
 
 footer ul li a {
@@ -1503,10 +1510,21 @@ Products Page
 .page-heading {
   margin-top: 160px;
   margin-bottom: 30px;
-  background-image: url(../images/products-page-heading.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.men {
+  background-image: url(../images/products-page-heading.jpg);
+}
+
+.women {
+  background-image: url(../images/products-page-women.jpg);
+}
+
+.kids {
+  background-image: url(../images/products-page-kids.jpg);
 }
 
 .page-heading .inner-content {

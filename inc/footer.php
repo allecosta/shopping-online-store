@@ -8,9 +8,9 @@
                             <img src="assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
                         </div>
                         <ul>
-                            <li><a href="">Avenida Simões Alves, 33160, Aracaju</li>
-                            <li><a href="">atendimento@onlinestore.com</a></li>
-                            <li><a href="">(79) 3215-5500</a></li>
+                            <li>Avenida Simões Alves, 33160, Aracaju</li>
+                            <li>atendimento@onlinestore.com</li>
+                            <li>(79) 3215-5500</li>
                         </ul>
                     </div>
                 </div>

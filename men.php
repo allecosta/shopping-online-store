@@ -6,7 +6,7 @@ require_once "inc/header.php";
 ?>
 
 <!-- Section Main Banner -->
-<section class="page-heading" id="top">
+<section class="page-heading men" id="top">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">

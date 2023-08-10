@@ -105,21 +105,21 @@ require_once "inc/header.php";
                 <div class="service-item">
                     <h4>Moda Masculina</h4>
                     <p>Fornecemos peças que focam na moda mais atual para o universo masculino.</p>
-                    <img src="assets/images/service-01.jpg" alt="">
+                    <img src="assets/images/baner-right-image-02.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="service-item">
                     <h4>Moda Feminina</h4>
                     <p>Fornecemos peças que focam na moda mais atual para o universo feminino.</p>
-                    <img src="assets/images/service-02.jpg" alt="">
+                    <img src="assets/images/baner-right-image-01.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="service-item">
                     <h4>Moda Infantil</h4>
                     <p>Fornecemos peças que focam na moda mais atual para o universo infantil.</p>
-                    <img src="assets/images/service-03.jpg" alt="">
+                    <img src="assets/images/baner-right-image-03.jpg" alt="">
                 </div>
             </div>
         </div>

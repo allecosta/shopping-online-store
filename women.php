@@ -6,7 +6,7 @@ require_once "inc/header.php";
 ?>
 
 <!-- Section Main Banner -->
-<section class="page-heading" id="top">
+<section class="page-heading women" id="top">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -37,7 +37,7 @@ require_once "inc/header.php";
                 <div class="item">
                     <div class="thumb">
                         <div class="hover-content">
-                            <ul><li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li></ul>
+                            <ul><li><a href=""><i class="fa fa-whatsapp"></i></a></li></ul>
                         </div>
                         <img src="assets/images/women-03.jpg" alt="">
                     </div>
@@ -52,7 +52,7 @@ require_once "inc/header.php";
                 <div class="item">
                     <div class="thumb">
                         <div class="hover-content">
-                            <ul><li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li></ul>
+                            <ul><li><a href=""><i class="fa fa-whatsapp"></i></a></li></ul>
                         </div>
                         <img src="assets/images/women-01.jpg" alt="">
                     </div>
@@ -67,7 +67,7 @@ require_once "inc/header.php";
                 <div class="item">
                     <div class="thumb">
                         <div class="hover-content">
-                            <ul><li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li></ul>
+                            <ul><li><a href=""><i class="fa fa-whatsapp"></i></a></li></ul>
                         </div>
                         <img src="assets/images/women-02.jpg" alt="">
                     </div>
@@ -82,7 +82,7 @@ require_once "inc/header.php";
                 <div class="item">
                     <div class="thumb">
                         <div class="hover-content">
-                            <ul><li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li></ul>
+                            <ul><li><a href=""><i class="fa fa-whatsapp"></i></a></li></ul>
                         </div>
                         <img src="assets/images/women-01.jpg" alt="">
                     </div>
@@ -97,7 +97,7 @@ require_once "inc/header.php";
                 <div class="item">
                     <div class="thumb">
                         <div class="hover-content">
-                            <ul><li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li></ul>
+                            <ul><li><a href=""><i class="fa fa-whatsapp"></i></a></li></ul>
                         </div>
                         <img src="assets/images/women-02.jpg" alt="">
                     </div>
@@ -112,7 +112,7 @@ require_once "inc/header.php";
                 <div class="item">
                     <div class="thumb">
                         <div class="hover-content">
-                            <ul><li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li></ul>
+                            <ul><li><a href=""><i class="fa fa-whatsapp"></i></a></li></ul>
                         </div>
                         <img src="assets/images/women-03.jpg" alt="">
                     </div>
@@ -127,7 +127,7 @@ require_once "inc/header.php";
                 <div class="item">
                     <div class="thumb">
                         <div class="hover-content">
-                            <ul><li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li></ul>
+                            <ul><li><a href=""><i class="fa fa-whatsapp"></i></a></li></ul>
                         </div>
                         <img src="assets/images/women-02.jpg" alt="">
                     </div>
@@ -142,7 +142,7 @@ require_once "inc/header.php";
                 <div class="item">
                     <div class="thumb">
                         <div class="hover-content">
-                            <ul><li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li></ul>
+                            <ul><li><a href=""><i class="fa fa-whatsapp"></i></a></li></ul>
                         </div>
                         <img src="assets/images/women-03.jpg" alt="">
                     </div>
@@ -157,7 +157,7 @@ require_once "inc/header.php";
                 <div class="item">
                     <div class="thumb">
                         <div class="hover-content">
-                            <ul><li><a href="single-product.html"><i class="fa fa-whatsapp"></i></a></li></ul>
+                            <ul><li><a href=""><i class="fa fa-whatsapp"></i></a></li></ul>
                         </div>
                         <img src="assets/images/women-01.jpg" alt="">
                     </div>
