@@ -714,6 +714,7 @@ header
 }
 
 
+
 /* 
 ---------------------------------------------
 banner
@@ -997,6 +998,7 @@ Men
 }
 
 
+
 /*
 ---------------------------------------------
 Women
@@ -1158,6 +1160,8 @@ Women
   border: 1px solid #2a2a2a;
 }
 
+
+
 /*
 ---------------------------------------------
 Kids
@@ -1243,7 +1247,6 @@ Kids
   border-radius: 50%;
 }
 
-
 #kids .owl-nav {
   text-align: center;
   position: absolute;
@@ -1320,6 +1323,7 @@ Kids
 }
 
 
+
 /*
 ---------------------------------------------
 Explore
@@ -1375,17 +1379,6 @@ Explore
   margin-top: 25px;
 }
 
-#explore .left-content .main-border-button a {
-  color: #2a2a2a;
-  border-color: #2a2a2a;
-  margin-top: 35px;
-}
-
-#explore .left-content .main-border-button a:hover {
-  background-color: #2a2a2a;
-  color: #fff;
-}
-
 #explore img {
   width: 100%;
   overflow: hidden;
@@ -1424,150 +1417,6 @@ Explore
   font-weight: 500;
 }
 
-/* 
----------------------------------------------
-Social
---------------------------------------------- 
-*/
-
-#social {
-  margin-top: 90px;
-  padding-bottom: 90px;
-  border-bottom: 3px dotted #eee;
-}
-
-#social .col-2 {
-  padding-left: 0;
-  padding-right: 0;
-}
-
-#social .images {
-  margin-top: 60px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
-#social .thumb {
-  position: relative;
-}
-
-#social .thumb .icon {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  top: 0;
-  width: 100%;
-  background-color: rgba(0, 0, 0, 0.85);
-  opacity: 0;
-  visibility: hidden;
-  transition: all .3s;
-}
-
-#social .thumb:hover .icon {
-  opacity: 1;
-  visibility: visible;
-}
-
-#social .thumb .icon h6 {
-  color: #fff;
-  position: absolute;
-  font-size: 14px;
-  bottom: 40px;
-  font-weight: 400;
-  left: 15px;
-}
-
-#social .thumb .icon i {
-  color: #fff;
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-}
-
-#social .thumb img {
-  width: 100%;
-  overflow: hidden;
-}
-
-
-/* 
----------------------------------------------
-Subscribe
---------------------------------------------- 
-*/
-
-.subscribe {
-  margin-top: 90px;
-}
-
-.subscribe .section-heading {
-  margin-bottom: 30px;
-}
-
-.subscribe .section-heading h2 {
-  line-height: 55px;
-}
-
-.subscribe form input {
-  width: 100%;
-  height: 44px;
-  line-height: 44px;
-  padding: 0px 15px;
-  font-size: 14px;
-  font-style: italic;
-  font-weight: 500;
-  color: #aaa;
-  border-radius: 0px;
-  border: 1px solid #7a7a7a;
-  box-shadow: none;
-}
-
-.subscribe form input::focus {
-  border-color: #2a2a2a;
-  border-radius: 0px;
-}
-
-.subscribe form button {
-  width: 44px;
-  height: 44px;
-  display: inline-block;
-  text-align: center;
-  line-height: 44px;
-  background-color: #2a2a2a;
-  box-shadow: none;
-  border: 1px solid transparent;
-  color: #fff;
-  transition: all 0.3s;
-}
-
-.subscribe form button:hover {
-  background-color: #fff;
-  border: 1px solid #2a2a2a;
-  color: #2a2a2a;
-}
-
-.subscribe ul li {
-  margin-bottom: 30px;
-  display: block;
-}
-
-.subscribe ul li {
-  font-size: 16px;
-  font-weight: 700;
-  color: #2a2a2a;
-}
-
-.subscribe ul li span,
-.subscribe ul li span a {
-  font-size: 14px;
-  font-weight: 400;
-  color: #aaa;
-}
-
-.subscribe ul li span a:hover {
-  color: #2a2a2a;
-}
 
 
 /* 
@@ -1642,6 +1491,7 @@ footer .under-footer a {
 footer .under-footer a:hover {
   color: #c66;
 }
+
 
 
 /* 
@@ -1760,39 +1610,6 @@ Products Page
   color: #fff;
   background-color: #119708;
   border-radius: 50%;
-}
-
-#products .pagination {
-  margin-top: 30px;
-  margin-bottom: 40px;
-}
-
-#products .pagination ul {
-  text-align: center;
-  width: 100%;
-}
-
-#products .pagination ul li {
-  display: inline;
-  margin: 0px 5px;
-}
-
-#products .pagination ul li a {
-  width: 44px;
-  height: 44px;
-  border: 1px solid #2a2a2a;
-  display: inline-block;
-  text-align: center;
-  line-height: 44px;
-  font-size: 14px;
-  font-weight: 500;
-  color: #2a2a2a;
-}
-
-#products .pagination ul li a:hover,
-#products .pagination ul li.active a {
-  background-color: #2a2a2a;
-  color: #fff;
 }
 
 
@@ -2301,6 +2118,7 @@ contact Us Page
 }
 
 
+
 /* 
 ---------------------------------------------
 responsive
@@ -2348,15 +2166,6 @@ responsive
     margin-top: 30px;
   }
 
-  .subscribe input {
-    margin-bottom: 15px;
-  }
-
-  .subscribe form {
-    text-align: center;
-    margin-bottom: 30px;
-  }
-
   .about-us .right-content {
     margin-left: 0px;
     margin-top: 30px;
@@ -2384,10 +2193,6 @@ responsive
     text-align: center;
   }
 
-  .subscribe form button {
-    width: 100%;
-  }
-
   footer {
     text-align: center;
   }
@@ -2398,11 +2203,13 @@ responsive
 }
 
 
+
 /* 
 ---------------------------------------------
 Preloader
 --------------------------------------------- 
 */
+
 #preloader {
   overflow: hidden;
   background-color: #2a2a2a;

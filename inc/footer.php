@@ -27,36 +27,20 @@
                     <ul>
                         <li><a href="#top">Home</a></li>
                         <li><a href="#">Empresa</a></li>
-                        <!-- <li><a href="#">Help</a></li>
-                        <li><a href="#">Contact Us</a></li> -->
                     </ul>
                 </div>
-                <!-- <div class="col-lg-3">
-                    <h4>Help &amp; Information</h4>
-                    <ul>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">FAQ's</a></li>
-                        <li><a href="#">Shipping</a></li>
-                        <li><a href="#">Tracking ID</a></li>
-                    </ul>
-                </div> -->
                 <div class="col-lg-12">
                     <div class="under-footer">
-                        <p>Copyright © <?= date("Y"); ?> Online Store
+                        <p>
+                            Copyright © <?= date("Y"); ?> Online Store
                             <br>Todos os direitos reservados
-
-                            <!-- <br>Design: <a href="https://templatemo.com" target="_parent"
-                                title="free css templates">TemplateMo</a> -->
-
-                            <br>Desenvolvido por: <a href="" target="_blank"
-                                title="">e-Maker Web</a>
+                            <br>Desenvolvido por: <a href="" target="_blank" title="">e-Maker Web</a>
                         </p>
                         <ul>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <!-- <li><a href="#"><i class="fa fa-behance"></i></a></li> -->
                         </ul>
                     </div>
                 </div>
@@ -97,7 +81,6 @@
                     $("." + selectedClass).fadeIn();
                     $("#portfolio").fadeTo(50, 1);
                 }, 500);
-
             });
         });
     </script>
