@@ -30,7 +30,7 @@ require_once "inc/header.php";
                 </div>
                 <div class="col-lg-6">
                     <div class="right-content">
-                        <h4>Sobre nós &amp; nossos serviços</h4>
+                        <h4>Sobre nós &amp; Nossos Serviços</h4>
                         <span>
                             Somos lideres em venda no mercado de moda feminina, masculina e infantil. 
                             Estamos a total disposição de nossos clientes. Nossa missão é fazer nossos clientes 
@@ -63,8 +63,8 @@ require_once "inc/header.php";
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-heading">
-                        <h2>Our Amazing Team</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <h2>Founder</h2>
+                        <span>Por minhas mãos e de todos o meus colaboradores nasceu a Online Store.</span>
                     </div>
                 </div>
                 <!-- <div class="col-lg-4">
@@ -89,7 +89,7 @@ require_once "inc/header.php";
                         </div>
                     </div>
                 </div> -->
-                <div class="col-lg-4">
+                <div class="col-lg-4 mx-auto">
                     <div class="team-item">
                         <div class="thumb">
                             <div class="hover-effect">
@@ -103,11 +103,11 @@ require_once "inc/header.php";
                                     </ul>
                                 </div>
                             </div>
-                            <img src="assets/images/team-member-02.jpg">
+                            <img src="assets/images/founder.jpg">
                         </div>
                         <div class="down-content">
-                            <h4>Ragnar Lodbrok</h4>
-                            <span>Product Caretaker</span>
+                            <h4>Larissa Mendes</h4>
+                            <span>Gerente</span>
                         </div>
                     </div>
                 </div>
@@ -142,31 +142,28 @@ require_once "inc/header.php";
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-heading">
-                        <h2>Our Services</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <h2>Nossos Serviços</h2>
+                        <span>Detalhes é o que torna a Online Store diferente de nossos concorrentes.</span>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="service-item">
-                        <h4>Synther Vaporware</h4>
-                        <p>Lorem ipsum dolor sit amet, consecteturti adipiscing elit, sed do eiusmod temp incididunt ut
-                            labore, et dolore quis ipsum suspend.</p>
+                        <h4>Moda Masculina</h4>
+                        <p>Fornecemos peças que focam na moda mais atual para o universo masculino.</p>
                         <img src="assets/images/service-01.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="service-item">
-                        <h4>Locavore Squidward</h4>
-                        <p>Lorem ipsum dolor sit amet, consecteturti adipiscing elit, sed do eiusmod temp incididunt ut
-                            labore, et dolore quis ipsum suspend.</p>
+                        <h4>Moda Feminina</h4>
+                        <p>Fornecemos peças que focam na moda mais atual para o universo feminino.</p>
                         <img src="assets/images/service-02.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="service-item">
-                        <h4>Health Gothfam</h4>
-                        <p>Lorem ipsum dolor sit amet, consecteturti adipiscing elit, sed do eiusmod temp incididunt ut
-                            labore, et dolore quis ipsum suspend.</p>
+                        <h4>Moda Infantil</h4>
+                        <p>Fornecemos peças que focam na moda mais atual para o universo infantil.</p>
                         <img src="assets/images/service-03.jpg" alt="">
                     </div>
                 </div>

@@ -8,9 +8,9 @@
                             <img src="assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
                         </div>
                         <ul>
-                            <li><a href="#">Avenida Simões Alves, 33160, Aracaju</a></li>
-                            <li><a href="#">atendimento@onlinestore.com</a></li>
-                            <li><a href="#">(79) 3215-5500</a></li>
+                            <li><a href="">Avenida Simões Alves, 33160, Aracaju</li>
+                            <li><a href="">atendimento@onlinestore.com</a></li>
+                            <li><a href="">(79) 3215-5500</a></li>
                         </ul>
                     </div>
                 </div>
@@ -42,7 +42,8 @@
                 </div> -->
                 <div class="col-lg-12">
                     <div class="under-footer">
-                        <p>Copyright © <?= date("Y"); ?> Online Store. Todos os direitos reservados.
+                        <p>Copyright © <?= date("Y"); ?> Online Store
+                            <br>Todos os direitos reservados
 
                             <!-- <br>Design: <a href="https://templatemo.com" target="_parent"
                                 title="free css templates">TemplateMo</a> -->
