@@ -760,6 +760,13 @@ banner
   margin-bottom: 30px;
 }
 
+.main-banner .left-content .thumb .inner-content .whats {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
 .main-banner .right-content .right-first-image {
   margin-bottom: 28.5px;
 }
@@ -948,15 +955,15 @@ Men
 #men .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #fff;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
   width: 50px;
   height: 50px;
-  background-color: transparent;
+  background-color: #2081AF;
   line-height: 48px;
-  border: 1px solid #2a2a2a;
+  border: 1px solid #2081AF;
 }
 
 #men .owl-nav .owl-prev {
@@ -986,15 +993,15 @@ Men
 #men .owl-nav .owl-next:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #fff;
   font-size: 25px;
   font-weight: 700;
   content: '\f105';
   width: 50px;
   height: 50px;
-  background-color: transparent;
+  background-color: #2081AF;
   line-height: 48px;
-  border: 1px solid #2a2a2a;
+  border: 1px solid #2081AF;
 }
 
 
@@ -1111,15 +1118,15 @@ Women
 #women .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #fff;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
   width: 50px;
   height: 50px;
-  background-color: transparent;
+  background-color: #2081AF;
   line-height: 48px;
-  border: 1px solid #2a2a2a;
+  border: 1px solid #2081AF;
 }
 
 #women .owl-nav .owl-prev {
@@ -1149,15 +1156,15 @@ Women
 #women .owl-nav .owl-next:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #fff;
   font-size: 25px;
   font-weight: 700;
   content: '\f105';
   width: 50px;
   height: 50px;
-  background-color: transparent;
+  background-color: #2081AF;
   line-height: 48px;
-  border: 1px solid #2a2a2a;
+  border: 1px solid #2081AF;
 }
 
 
@@ -1273,15 +1280,15 @@ Kids
 #kids .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #fff;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
   width: 50px;
   height: 50px;
-  background-color: transparent;
+  background-color: #2081AF;
   line-height: 48px;
-  border: 1px solid #2a2a2a;
+  border: 1px solid #2081AF;
 }
 
 #kids .owl-nav .owl-prev {
@@ -1311,15 +1318,15 @@ Kids
 #kids .owl-nav .owl-next:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #fff;
   font-size: 25px;
   font-weight: 700;
   content: '\f105';
   width: 50px;
   height: 50px;
-  background-color: transparent;
+  background-color: #2081AF;
   line-height: 48px;
-  border: 1px solid #2a2a2a;
+  border: 1px solid #2081AF;
 }
 
 

@@ -17,16 +17,16 @@
                 <div class="col-lg-3">
                     <h4>Categorias</h4>
                     <ul>
-                        <li><a href="#">Moda Feminina</a></li>
-                        <li><a href="#">Moda Masculina</a></li>
-                        <li><a href="#">Moda Infantil</a></li>
+                        <li><a href="./women.php">Moda Feminina</a></li>
+                        <li><a href="./men.php">Moda Masculina</a></li>
+                        <li><a href="./kids.php">Moda Infantil</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
                     <h4>Links Úteis</h4>
                     <ul>
-                        <li><a href="#top">Home</a></li>
-                        <li><a href="#">Empresa</a></li>
+                        <li><a href="./index.php">Home</a></li>
+                        <li><a href="./about.php">Empresa</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-12">
