@@ -18,7 +18,7 @@ require_once "inc/header.php";
                                 Moda Masculina, feminina &amp; Infantil<br>
                                 Gostou? Fale conosco via Whatsapp
                             </span>
-                            <div class="">
+                            <div class="whats">
                                 <a href="#"><img src="assets/images/whatsapp.png" alt="whatsapp"></a>
                             </div>
                         </div>
@@ -39,9 +39,8 @@ require_once "inc/header.php";
                                     <div class="hover-content">
                                         <div class="inner">
                                             <h4>Feminino</h4>
-                                            <!-- <p>Sua loja online de moda feminina</p> -->
                                             <div class="main-border-button">
-                                                <a href="#">Veja mais</a>
+                                                <a href="women.php">Veja mais</a>
                                             </div>
                                         </div>
                                     </div>
@@ -59,9 +58,8 @@ require_once "inc/header.php";
                                     <div class="hover-content">
                                         <div class="inner">
                                             <h4>Masculino</h4>
-                                            <!-- <p>Sua loja online de moda masculina.</p> -->
                                             <div class="main-border-button">
-                                                <a href="#">Veja mais</a>
+                                                <a href="men.php">Veja mais</a>
                                             </div>
                                         </div>
                                     </div>
@@ -79,9 +77,8 @@ require_once "inc/header.php";
                                     <div class="hover-content">
                                         <div class="inner">
                                             <h4>Infantil</h4>
-                                            <!-- <p>Sua loja online de moda infanto juvenil.</p> -->
                                             <div class="main-border-button">
-                                                <a href="#">Veja mais</a>
+                                                <a href="kids.php">Veja mais</a>
                                             </div>
                                         </div>
                                     </div>
@@ -153,8 +150,7 @@ require_once "inc/header.php";
                             <div class="down-content">
                                 <h4>Love Nana ‘20</h4>
                                 <span>R$ 150,00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i> 3</li></ul>
+                                <ul class="stars"><li><i class="fa fa-star"></i> 3</li></ul>
                             </div>
                         </div>
                         <div class="item">
